@@ -1,1 +1,1 @@
-# mnistDDemo
+# mnistDemo
